@@ -1,5 +1,5 @@
 {
-    "name": "gabrielmoura/laravel-pennant-redis",
+    "name": "itsmill3rtime/laravel-pennant-redis",
     "type": "library",
     "license": "MIT",
     "description": "A Redis Driver for Laravel Pennant",
